@@ -1,0 +1,8 @@
+.env
+/.idea/
+/.venv/
+*.json
+*.session
+*.txt
+*.csv
+*.xml
